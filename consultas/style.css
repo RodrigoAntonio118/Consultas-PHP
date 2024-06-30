@@ -1,0 +1,49 @@
+body {
+    background-color: #f0f8ff;
+}
+.navbar {
+    background-color: #ff5733 !important;
+}
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+}
+.nav-link.active {
+    background-color: #ffc107 !important;
+    color: #000 !important;
+}
+.nav-link:hover {
+    background-color: #ffcccb !important;
+}
+h1 {
+    color: #ff5733;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+    color: #925519;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Great Vibes', cursive;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ff5733;
+}
+th {
+    background-color: #ff5733;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
